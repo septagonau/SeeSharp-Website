@@ -44,7 +44,7 @@ SeeSharp empowers individuals with low vision to access printed information inde
 
 For feedback, collaboration, or early access, please reach out via email:
 
-[youremail@example.com](mailto:stash@septagon.co.nz)
+stash@septagon.co.nz
 
 ---
 
