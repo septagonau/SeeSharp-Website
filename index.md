@@ -1,48 +1,48 @@
 # SeeSharp
 
-**SeeSharp is an assistive app designed to help people with low vision by capturing text, processing it with AI, and reading it out loud.**
+**An assistive app that helps people with low vision by capturing text, processing it with AI, and reading it out loud.**
 
 ---
 
 ## 🚀 Features
 
-- **Real-time text detection** using your device’s camera
-- **AI-powered OCR** (Optical Character Recognition) to extract text from images
-- **Natural, human-like voice output** using OpenAI and Google TTS APIs
-- Designed for **low-vision users**: simple interface, large fonts, voice-guided interaction
-- Works on **iPhone** and **Apple Watch**
+- Real-time text detection using your device’s camera
+- AI-powered OCR (Optical Character Recognition) to extract text from images
+- Natural, human-like voice output using OpenAI and Google TTS APIs
+- Simple, accessible interface designed for low-vision users
+- Works on iPhone and Apple Watch
 - No ads, no distractions—focused on accessibility
 
 ---
 
 ## How It Works
 
-1️⃣ Point your camera at printed text (e.g., a sign, document, or label)  
-2️⃣ SeeSharp captures the image and processes it using AI models for text extraction  
-3️⃣ The extracted text is read aloud using Google TTS, making information accessible in real-time  
+1️⃣ Point your camera at any printed text (signs, documents, labels)  
+2️⃣ SeeSharp captures the image and extracts the text using AI  
+3️⃣ The extracted text is read aloud with a clear, natural voice  
 
-SeeSharp does not rely on cloud-based location services for functionality. The camera + AI + TTS workflow works even in offline scenarios (except for text-to-speech services which may need an internet connection).
+SeeSharp uses advanced AI models for OCR and text-to-speech. The app relies on OpenAI for text understanding and Google TTS for voice synthesis.
 
 ---
 
 ## Vision
 
-SeeSharp empowers individuals with low vision by making printed text **audible** and **accessible**—anywhere, anytime.
+SeeSharp empowers individuals with low vision to access printed information independently—making text audible, anywhere, anytime.
 
 ---
 
 ## Roadmap
 
-- Support for **multiple languages**
-- Adjustable **reading speed and voice pitch**
-- Offline **text-to-speech fallback**
-- Community-driven feature suggestions
+- Support for multiple languages
+- Adjustable reading speed and voice pitch
+- Offline text-to-speech fallback
+- Community-driven features based on user feedback
 
 ---
 
 ## Contact
 
-For feedback, collaboration, or early access, please reach out:
+For feedback, collaboration, or early access, please reach out via email:
 
 [youremail@example.com](mailto:stash@septagon.co.nz)
 
