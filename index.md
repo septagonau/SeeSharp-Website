@@ -1,41 +1,52 @@
 # SeeSharp
 
-**An ad-free, minimalist speed tracking app for iOS and Apple Watch.**
+**SeeSharp is an assistive app designed to help people with low vision by capturing text, processing it with AI, and reading it out loud.**
 
 ---
 
 ## 🚀 Features
 
-- Real-time speed display using your device's GPS
-- Works for walking, cycling, driving, or any motion
-- Offline capable—no internet required
-- Clean, clutter-free interface with large digits
-- Supports iPhone and Apple Watch
-- No ads, no data tracking, and no subscriptions
+- **Real-time text detection** using your device’s camera
+- **AI-powered OCR** (Optical Character Recognition) to extract text from images
+- **Natural, human-like voice output** using OpenAI and Google TTS APIs
+- Designed for **low-vision users**: simple interface, large fonts, voice-guided interaction
+- Works on **iPhone** and **Apple Watch**
+- No ads, no distractions—focused on accessibility
 
 ---
 
 ## How It Works
 
-SeeSharp uses your device's GPS chip to calculate speed directly. It does not rely on internet connectivity or external APIs for location services. Whether you're walking through the park, cycling, or driving, SeeSharp shows your current speed in real-time.
+1️⃣ Point your camera at printed text (e.g., a sign, document, or label)  
+2️⃣ SeeSharp captures the image and processes it using AI models for text extraction  
+3️⃣ The extracted text is read aloud using Google TTS, making information accessible in real-time  
+
+SeeSharp does not rely on cloud-based location services for functionality. The camera + AI + TTS workflow works even in offline scenarios (except for text-to-speech services which may need an internet connection).
+
+---
+
+## Vision
+
+SeeSharp empowers individuals with low vision by making printed text **audible** and **accessible**—anywhere, anytime.
 
 ---
 
 ## Roadmap
 
-- Display legal speed limits using Google Roads API (coming soon)
-- Option to view speed in mph or km/h
-- History of speed sessions and distance tracking
-- Community-driven feature requests
+- Support for **multiple languages**
+- Adjustable **reading speed and voice pitch**
+- Offline **text-to-speech fallback**
+- Community-driven feature suggestions
 
 ---
 
 ## Contact
 
-For inquiries, feedback, or collaboration opportunities, please reach out via email:
+For feedback, collaboration, or early access, please reach out:
 
-[youremail@example.com](mailto:youremail@example.com)
+[youremail@example.com](mailto:stash@septagon.co.nz)
 
 ---
 
-*This is a public page for SeeSharp. The main project repository remains private to protect sensitive API keys and code.*
+*SeeSharp is currently in development. The main project repository remains private to protect API keys and sensitive components.*
+
