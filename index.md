@@ -1,4 +1,4 @@
-# SeeSharp
+# SharpView
 
 **An assistive app that helps people with low vision by capturing text, processing it with AI, and reading it out loud.**
 
