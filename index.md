@@ -18,16 +18,16 @@
 ## How It Works
 
 1️⃣ Point your camera at any printed text (signs, documents, labels)  
-2️⃣ SeeSharp captures the image and extracts the text using AI  
+2️⃣ SharpView captures the image and extracts the text using AI  
 3️⃣ The extracted text is read aloud with a clear, natural voice  
 
-SeeSharp uses advanced AI models for OCR and text-to-speech. The app relies on OpenAI for text understanding and Google TTS for voice synthesis.
+SharpView uses advanced AI models for OCR and text-to-speech. The app relies on OpenAI for text understanding and Google TTS for voice synthesis.
 
 ---
 
 ## Vision
 
-SeeSharp empowers individuals with low vision to access printed information independently—making text audible, anywhere, anytime.
+SharpView empowers individuals with low vision to access printed information independently—making text audible, anywhere, anytime.
 
 ---
 
@@ -47,5 +47,5 @@ For feedback, collaboration, or early access, please email us at:
 
 ---
 
-*SeeSharp is currently in development. The main project repository remains private to protect API keys and sensitive components.*
+*SharpView is currently in development. The main project repository remains private to protect API keys and sensitive components.*
 
