@@ -1,4 +1,4 @@
-# Privacy Policy for SeeSharp
+# Privacy Policy for SharpView
 _Last Updated: 01/12/2024_
 
 Your privacy is important to us. This Privacy Policy explains how the **SeeSharp** app collects, uses, and protects your information.
